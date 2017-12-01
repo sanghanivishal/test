@@ -1,0 +1,8 @@
+{
+    "success": false,
+    "error": true,
+    "message": "Train Status for this train is unavailable at the moment. Please retry after 10 minutes. Thanks for your patience.",
+    "is_run_day": true,
+    "new_message": "Train Status for this train is unavailable at the moment. Please retry after 10 minutes. Thanks for your patience.",
+    "total_request_time": 0.1217
+}
