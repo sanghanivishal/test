@@ -1,32 +1,33 @@
 [
   {
-    id: 1,
-    category: "Mens",
-    thumbnail: "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    
+"id": 1,
+    "category": "Mens",
+    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
   },
   {
-    id: 2,
-    category: "Mens",
-    thumbnail: "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "id": 2,
+    "category": "Mens",
+    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
   },
   {
-    id: 3,
-    category: "Mens",
-    thumbnail: "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "id": 3,
+    "category": "Mens",
+    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
   },
   {
-    id: 4,
-    category: "Mens",
-    thumbnail: "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "id": 4,
+    "category": "Mens",
+    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
   },
   {
-    id: 5,
-    category: "Mens",
-    thumbnail: "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "id": 5,
+    "category": "Mens",
+    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
   },
   {
-    id: 6,
-    category: "Mens",
-    thumbnail: "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "id": 6,
+    "category": "Mens",
+    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
   }
 ]
