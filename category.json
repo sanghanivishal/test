@@ -1,37 +1,44 @@
 [
   {
     "id": "1",
-    "category": "Mens",
-    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "category": "T-Shirts",
+    "items": 2000,
+    "thumbnail": "https://res.cloudinary.com/doha7piuc/image/upload/v1563125375/test/mens-t-shirt.png"
   },
   {
     "id": "2",
-    "category": "Mens",
-    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "category": "Sweaters",
+    "items": 2000,
+    "thumbnail": "https://res.cloudinary.com/doha7piuc/image/upload/v1563125375/test/sweater.png"
   },
   {
     "id": "3",
-    "category": "Mens",
-    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "category": "Suits",
+    "items": 2000,
+    "thumbnail": "https://res.cloudinary.com/doha7piuc/image/upload/v1563125375/test/suits1.png"
   },
   {
     "id": "4",
-    "category": "Mens",
-    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "category": "Kurtas & Suits",
+    "items": 2000,
+    "thumbnail": "https://res.cloudinary.com/doha7piuc/image/upload/v1563125431/test/kurtis.png"
   },
   {
     "id": "5",
-    "category": "Mens",
-    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "category": "Tops",
+    "items": 2000,
+    "thumbnail": "https://res.cloudinary.com/doha7piuc/image/upload/v1563125374/test/suits.png"
   },
   {
     "id": "6",
-    "category": "Mens",
-    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "category": "Ethnic Wear",
+    "items": 2000,
+    "thumbnail": "https://res.cloudinary.com/doha7piuc/image/upload/v1563125374/test/suits.png"
   },
   {
     "id": "7",
-    "category": "Mens",
-    "thumbnail": "https://eu.lee.com/media/catalog/product/cache/0/small_image/440x560/0dc2d03fe217f8c83829496872af24a0/import/item/1/L66KUHHY.jpg"
+    "category": "Sherwanis",
+    "items": 2000,
+    "thumbnail": "https://res.cloudinary.com/doha7piuc/image/upload/v1563125374/test/sherwani.png"
   }
 ]
